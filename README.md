@@ -1,6 +1,6 @@
 # App 6
 
-App para practicar la implementacion de plugins y de streams
+App para practicar la implementacion de plugins, request HTTP y deteccion de eventos con streams
 
 ## Getting Started
 
